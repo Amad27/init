@@ -1,4 +1,4 @@
-INIT
+<a href="http://farhadg.github.io/init/landing/" target="_blank">INIT</a>
 ====
 
 A quick way to go to the first commit of a repo.
