@@ -1,7 +1,7 @@
 INIT
 ====
 
-A <a href="http://farhadg.github.io/init/landing/" target="_blank">(bookmarklet / browser extension)</a> to quickly get you to the first commit of a repo.
+A <a href="http://farhadg.github.io/init/landing/" target="_blank">bookmarklet</a> to quickly get you to the first commit of a repo.
 
 ### Overview
 
